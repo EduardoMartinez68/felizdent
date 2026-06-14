@@ -52,7 +52,7 @@
       <div class="image-and-map">
         <!-- Imagen del consultorio -->
         <div class="image-container">
-          <img src="@/assets/Imagenesp/clinicatecamachalco.jpg" alt="Imagen de la clínica" class="clinica-img">
+          <img src="@/assets/ImagenesP/clinicatecamachalco.jpg" alt="Imagen de la clínica" class="clinica-img">
         </div>
   
         <!-- Mapa de Google Maps del consultorio -->
