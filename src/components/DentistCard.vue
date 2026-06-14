@@ -621,7 +621,7 @@
           <div class="card-inner" :class="{ flipped: isFlipped16 }">
             <!-- Cara delantera -->
             <div class="card-front">
-              <img src="@/assets/Imagenesespecialistas/drdaniel.jpeg" alt="Imagen del Dentista" class="card-img">
+              <img src="@/assets/imagenesespecialistas/drdaniel.jpeg" alt="Imagen del Dentista" class="card-img">
               <div class="card-content">
                 <h3>Dr. Daniel Jiménez de Rosas</h3>
                 <h4>Dentista General</h4>
