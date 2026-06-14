@@ -449,7 +449,7 @@
   import imgOdontopediatria from '@/assets/ImagenesP/ode.jpg';
   import imgEndodoncia from '@/assets/ImagenesP/en.jpg';
   import imgCirugias from '@/assets/ImagenesP/Fot4.jpg';
-  import imgOrtodoncia from '@/assets/Imagenesp/ort.jpg'; 
+  import imgOrtodoncia from '@/assets/ImagenesP/ort.jpg'; 
   import imgEstetica from '@/assets/ImagenesP/Fot3.jpg'; 
   import imgPeriodoncia from '@/assets/Periodoncia/period.jpg'; 
   
