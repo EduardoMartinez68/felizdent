@@ -11,7 +11,7 @@
         <p>Felizdent es una clínica dental en con más de 20 años de experiencia, ofreciendo soluciones dentales innovadoras con tratamientos innovadores y mínimamente invasivos.
         Utilizamos materiales de última generación y contamos con un equipo de odontólogos especializados en periodoncia, estética dental, ortodoncia
         y odontopediatría, comprometidos con brindarte el mejor cuidado para tu salud bucal.</p>
-        <img src="@/assets/imagenesC/especialistasabril2026.jpeg" alt="Consultorio dental">
+        <img src="@/assets/ImagenesC/especialistasabril2026.jpeg" alt="Consultorio dental">
       </div>
     </section>
     </v-row>
