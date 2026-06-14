@@ -449,9 +449,9 @@
   import imgOdontopediatria from '@/assets/ImagenesP/ode.jpg';
   import imgEndodoncia from '@/assets/ImagenesP/en.jpg';
   import imgCirugias from '@/assets/ImagenesP/Fot4.jpg';
-  import imgOrtodoncia from '@/assets/Imagenesp/Ort.jpg'; 
-  import imgEstetica from '@/assets/ImagenesP/fot3.jpg'; 
-  import imgPeriodoncia from '@/assets/periodoncia/period.jpg'; 
+  import imgOrtodoncia from '@/assets/Imagenesp/ort.jpg'; 
+  import imgEstetica from '@/assets/ImagenesP/Fot3.jpg'; 
+  import imgPeriodoncia from '@/assets/Periodoncia/period.jpg'; 
   
   export default {
   name: 'PaginaPrincipal',
